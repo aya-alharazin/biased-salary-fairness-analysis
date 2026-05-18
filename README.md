@@ -1,6 +1,5 @@
 # ⚖️ Biased Employee Salary Dataset for Responsible AI & Fairness Analysis
 
-![Dataset Banner](banner.png)
 
 ## 📌 Overview
 
