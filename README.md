@@ -18,7 +18,7 @@ The project is beginner-friendly and focuses on understanding how machine learni
 
 ---
 
-# 📊 Dataset Features
+## 📊 Dataset Features
 
 | Feature | Description |
 |---|---|
@@ -31,7 +31,7 @@ The project is beginner-friendly and focuses on understanding how machine learni
 
 ---
 
-# 📁 Dataset Information
+## 📁 Dataset Information
 
 - ✅ 1,000+ Employee Records
 - ✅ Synthetic Data
@@ -42,7 +42,7 @@ The project is beginner-friendly and focuses on understanding how machine learni
 
 ---
 
-# 🎯 Project Goals
+## 🎯 Project Goals
 
 This project demonstrates:
 
@@ -53,7 +53,7 @@ This project demonstrates:
 
 ---
 
-# 🤖 Machine Learning Workflow
+## 🤖 Machine Learning Workflow
 
 ```text
 Biased Historical Data
@@ -65,51 +65,69 @@ Model Learns Patterns
 Biased Predictions
           ↓
 Need for Responsible AI
-📈 Planned Analysis
+```
+
+---
+
+## 📈 Planned Analysis
 
 The notebook includes:
 
-Exploratory Data Analysis (EDA)
-Salary distribution visualization
-Gender fairness comparison
-Linear Regression model training
-Bias observation experiments
-Responsible AI discussion
-🛠 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Kaggle
-⚠️ Important Note
+- Exploratory Data Analysis (EDA)
+- Salary distribution visualization
+- Gender fairness comparison
+- Linear Regression model training
+- Bias observation experiments
+- Responsible AI discussion
 
-This dataset is fully synthetic and created for educational purposes only.
+---
 
-It does NOT represent:
+## 🛠 Technologies Used
 
-real employees,
-real salaries,
-or real company data.
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Kaggle
+
+---
+
+## ⚠️ Important Note
+
+This dataset is **fully synthetic** and created for **educational purposes only**.
+
+It does **NOT** represent:
+
+- Real employees
+- Real salaries
+- Real company data
 
 The dataset intentionally contains historical-style bias patterns to support fairness and Responsible AI experiments.
 
-🚀 Use Cases
-Responsible AI Tutorials
-Fairness Analysis Projects
-Bias Detection Experiments
-Machine Learning Education
-Regression Practice
-Ethical AI Demonstrations
-❤️ Key Learning
+---
 
-“Machine learning models learn patterns from data — including unfair patterns.”
+## 🚀 Use Cases
+
+- Responsible AI Tutorials
+- Fairness Analysis Projects
+- Bias Detection Experiments
+- Machine Learning Education
+- Regression Practice
+- Ethical AI Demonstrations
+
+---
+
+## ❤️ Key Learning
+
+> "Machine learning models learn patterns from data — including unfair patterns."
 
 Understanding this concept is a critical step toward building fair and ethical AI systems.
 
-👩‍💻 Author
+---
 
-Aya Alharazin
+## 👩‍💻 Author
 
+**Aya Alharazin**  
 Computer Science Graduate • Teaching Assistant • AI/ML Learner
